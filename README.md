@@ -46,6 +46,7 @@ Copy the code from `sample.env.local` and create a new file called `.env.local`.
 
 ```bash
 DEEPGRAM_API_KEY=YOUR-DG-API-KEY
+DEEPGRAM_ENV=development
 ```
 
 For `DEEPGRAM_API_KEY` paste in the key you generated in the [Deepgram console](https://console.deepgram.com/).
